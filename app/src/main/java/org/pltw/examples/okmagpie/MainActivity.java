@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     Magpie4 maggie;
     private final int REQ_CODE_SPEECH_INPUT = 100;
 
-    // Mr. Lande commented here
+    // Mr. Lande commented here ds
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
